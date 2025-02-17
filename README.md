@@ -1,2 +1,2 @@
 # Trek-
-Local vacation rental management companies and Resorts with private cabins and cottages. 
+Local vacation rental management companies and Resorts with private cabins and cottages 
